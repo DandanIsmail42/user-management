@@ -7,6 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## example endpoint
+- created USER method POST http://127.0.0.1:8000/api/user
+- get USER method GET http://127.0.0.1:8000/api/user
+- created ORDER method POST http://127.0.0.1:8000/api/order
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
